@@ -1,0 +1,30 @@
+h1{
+  font-size: 70px;
+  color: teal;
+  font-family: 'Rubik Mono One', sans-serif;
+  /* border: 5px solid white; */
+
+}
+body{
+  background-color: #C9F9FF;
+  border: 5px solid white;
+}
+/* div{
+  border: 3px solid white;
+} */
+#kyrie{
+height: 400px;
+width: 250px;
+}
+h3{
+  font-size: 45px;
+  color: teal;
+  /* border: 5px solid white; */
+  font-family: 'Rubik Mono One', sans-serif;
+}
+.gif{
+  display: flex;
+justify-content: flex-start;
+ height: 200px;
+  width: 300px;
+}
